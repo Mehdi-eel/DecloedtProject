@@ -1,0 +1,40 @@
+[
+    {
+        "image": "/images/icon/icon-1.png",
+        "title": "Cutting-edge technology stack",
+        "description": "Modern and reliable technologies to make your product effortlessly updated and maintained"
+    },
+    {
+        "image": "/images/icon/icon-2.png",
+        "title": "Legal compliance",
+        "description": "100% GDPR, HIPAA, and ISO compliant produscts"
+    },
+    {
+        "image": "/images/icon/icon-43.png",
+        "title": "Guaranteed service quality",
+        "description": "30 days free quality assurance to ensure that your product is up and running",
+        "cate": "Technology"
+    },
+    {
+        "image": "/images/icon/icon-44.png",
+        "title": "Security",
+        "description": "All intellectual property belongs to you and is legally and technologically protected",
+        "cate": "Technology"
+    },
+    {
+        "image": "/images/icon/icon-45.png",
+        "title": "Agile management",
+        "description": "Adjustable project flow to meet urgent challeneges resolve complex tasks",
+        "cate": "Technology"
+    },
+    {
+        "image": "/images/icon/icon-46.png",
+        "title": "360° Scalability",
+        "description": "Scallable team structure and  software to make your business ready for change and adapatation",
+        "cate": "Technology"
+    }
+
+
+
+    
+]
